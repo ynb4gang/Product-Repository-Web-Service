@@ -20,7 +20,7 @@ The **Product Catalogue** is a Spring Boot application designed to manage a coll
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/product-catalogue.git
+   git clone https://github.com/ynb4gang/Product-Repository-Web-Service.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
