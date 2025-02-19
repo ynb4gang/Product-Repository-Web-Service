@@ -1,0 +1,9 @@
+com\example\ProductCatalogue\HomeController.class
+com\example\ProductCatalogue\ProductController.class
+com\example\ProductCatalogue\Product.class
+com\example\ProductCatalogue\ProductService.class
+com\example\ProductCatalogue\Cart.class
+com\example\ProductCatalogue\ProductCatalogueApplication.class
+com\example\ProductCatalogue\CartController.class
+com\example\ProductCatalogue\ProductRepository.class
+com\example\ProductCatalogue\CartService.class
